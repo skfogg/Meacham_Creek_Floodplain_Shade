@@ -1,2 +1,2 @@
 # Meacham_Creek_Floodplain_Shade
-Effects of floodplain shade on meahcam creek hyporheic and stream temperature
+Effects of floodplain shade on meacham creek hyporheic and stream temperature
