@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+__MACOSX/
+data/
+historic_meacham/
+meacham_floodplain_hydro_temps/
